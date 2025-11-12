@@ -1,5 +1,7 @@
 # lite-http-clj-server
 
+[![Run Tests](https://github.com/estebanleonsoto/lite-http-clj-server/actions/workflows/test.yml/badge.svg)](https://github.com/estebanleonsoto/lite-http-clj-server/actions/workflows/test.yml)
+
 Minimalist pure Clojure HTTP server
 
 ## Overview
